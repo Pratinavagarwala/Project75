@@ -22,7 +22,7 @@ export default class WelcomeScreen extends React.Component{
     render(){
         return(
             <View style={styles.container}>
-                <Text style={styles.text}>Book Santa</Text>
+                <Text style={styles.text}>Barter System</Text>
                 <TextInput 
                     style={styles.inputBox}
                     placeholder="EmailId"
